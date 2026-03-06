@@ -1,46 +1,144 @@
 # Hi, I'm Mahtab 👋
 
-AI Developer student based in Stockholm.
+AI Developer student based in Stockholm, Sweden.
 
-I enjoy building systems that combine technology, data and human wellbeing.
+I enjoy building systems where **technology, data and human wellbeing meet**.  
+My focus is on **Python development, web applications and applied AI**.
 
-Currently studying AI Development with focus on:
-
-• Python  
-• FastAPI  
-• React  
-• SQL / PostgreSQL  
-• Machine Learning  
- 
+Currently studying **AI Developer** at Jensen Yrkeshögskola.
 
 ---
 
-## 🚀 Featured Project
+# 🚀 Projects
 
-### SoulCode
+### 🌿 SoulCode
+Full-stack wellness platform combining mental wellbeing with modern web technology.
 
-Full-stack wellness platform where users can track meditation, yoga and reflections.
+Features:
+- User authentication (JWT)
+- Personal wellness entries
+- Weekly insights
+- Chakra-inspired UI
 
-Tech stack:
+Tech:
+FastAPI • React • PostgreSQL • SQLAlchemy • Render
 
-FastAPI • React • PostgreSQL • JWT Authentication • Render
-
-Live app:  
+Live app  
 https://soulcode-frontend-mahtab.onrender.com
 
----
-
-## 💻 Projects
-
-• SoulCode – full-stack wellness platform  
-• City Vibe Analyzer – city data analysis using APIs  
-• Wellness Tracker – CLI wellbeing tracker in Python  
+API docs  
+https://soulcode-api-mahtab.onrender.com/docs
 
 ---
 
+### 🌍 City Vibe Analyzer
+Python project that analyzes city conditions using external APIs.
 
-## 📫 Connect with me
+The system combines weather and traffic data to generate a simple “city vibe” analysis.
 
-LinkedIn  
+Focus:
+- API integration
+- modular Python architecture
+- data processing
+- visualization
+
+Tech:
+Python • APIs • Data analysis
+
+---
+
+### 🧘 Wellness Tracker
+Command-line application for tracking wellbeing activities such as meditation and yoga.
+
+The program stores entries and generates reports to help users understand their habits.
+
+Focus:
+- CLI application design
+- modular Python structure
+- data tracking
+
+Tech:
+Python • CLI • data processing
+
+---
+
+### 🎮 Python Game
+A small text-based adventure game created to practice core Python concepts.
+
+The project focuses on learning how to structure a small program and manage game data.
+
+Focus:
+- Python classes and OOP
+- modular code structure
+- JSON data handling
+- using external libraries
+- Git / GitHub workflow
+
+Tech:
+Python • JSON
+
+---
+
+# 🎓 Education
+
+**AI Developer – Jensen Yrkeshögskola**
+
+Courses include:
+
+- Python Development (Basic & Advanced)
+- Database Technology
+- Web Application Development
+- Applied AI and Data Mining
+- Machine Learning
+- Deep Learning
+- Agile Development
+- Self-Leadership
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
+Python  
+JavaScript  
+
+### Frontend
+HTML  
+CSS  
+React  
+TypeScript  
+
+### Backend
+SQL  
+FastAPI  
+Flask  
+MongoDB  
+
+### Tools
+Git  
+GitHub  
+DBeaver  
+MySQL Workbench  
+VS Code  
+
+### AI & Data
+Machine Learning  
+Applied AI  
+Deep Learning  
+
+---
+
+# 🌱 Currently learning
+
+- Web applications
+- Machine Learning
+- AI system development
+- Data analysis
+- Cloud deployment
+
+---
+
+# 📫 Connect with me
+
+LinkedIn
 https://www.linkedin.com/in/mahtab-nezam-b52853275/
-
