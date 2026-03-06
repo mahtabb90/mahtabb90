@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I'm Mahtab 👋
 
-<!--
-**mahtabb90/mahtabb90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Developer student based in Stockholm.
 
-Here are some ideas to get you started:
+I enjoy building systems that combine technology, data and human wellbeing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently studying AI Development with focus on:
+
+• Python  
+• FastAPI  
+• React  
+• SQL / PostgreSQL  
+• Machine Learning  
+ 
+
+---
+
+## 🚀 Featured Project
+
+### SoulCode
+
+Full-stack wellness platform where users can track meditation, yoga and reflections.
+
+Tech stack:
+
+FastAPI • React • PostgreSQL • JWT Authentication • Render
+
+Live app:  
+https://soulcode-frontend-mahtab.onrender.com
+
+---
+
+## 💻 Projects
+
+• SoulCode – full-stack wellness platform  
+• City Vibe Analyzer – city data analysis using APIs  
+• Wellness Tracker – CLI wellbeing tracker in Python  
+
+---
+
+
+## 📫 Connect with me
+
+LinkedIn  
+https://www.linkedin.com/in/mahtab-nezam-b52853275/
+
