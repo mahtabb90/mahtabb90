@@ -2,14 +2,16 @@
 
 AI Developer student based in Stockholm, Sweden.
 
+Studying **AI Development** at Jensen Yrkeshögskola.
+
 I enjoy building systems where **technology, data and human wellbeing meet**.  
 My focus is on **Python development, web applications and applied AI**.
 
-Currently studying **AI Developer** at Jensen Yrkeshögskola.
+Seeking **LIA internship opportunities (Nov 2026 – May 2027)**.
 
 ---
 
-# 🚀 Projects
+# 🚀 Selected Projects
 
 ### 🌿 SoulCode
 Full-stack wellness platform combining mental wellbeing with modern web technology.
@@ -94,37 +96,6 @@ Courses include:
 - Agile Development
 - Self-Leadership
 
----
-
-# 🛠 Tech Stack
-
-### Languages
-Python  
-JavaScript  
-
-### Frontend
-HTML  
-CSS  
-React  
-TypeScript  
-
-### Backend
-SQL  
-FastAPI  
-Flask  
-MongoDB  
-
-### Tools
-Git  
-GitHub  
-DBeaver  
-MySQL Workbench  
-VS Code  
-
-### AI & Data
-Machine Learning  
-Applied AI  
-Deep Learning  
 
 ---
 
