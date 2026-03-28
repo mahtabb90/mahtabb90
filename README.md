@@ -1,7 +1,5 @@
 # Hi, I'm Mahtab 👋
 
-AI Developer student based in Stockholm, Sweden.
-
 Studying **AI Development** at Jensen Yrkeshögskola.
 
 I enjoy building systems where **technology, data and human wellbeing meet**.  
