@@ -31,6 +31,25 @@ https://soulcode-api-mahtab.onrender.com/docs
 
 ---
 
+### 🤖 Mini ATS  
+AI-powered Applicant Tracking System for managing hiring workflows.
+
+Features:
+- User authentication (Supabase Auth)
+- Job management system
+- Candidate profiles (LinkedIn, CV summary)
+- Kanban recruitment pipeline (Applied → Interview → Offer → Rejected)
+- Filtering (job & candidate name)
+- AI match scoring (MVP)
+- Admin panel with secure user creation (Edge Functions)
+
+Tech: React • Supabase • PostgreSQL • Tailwind CSS • Edge Functions • Render
+
+Live app  
+https://mini-ats-ai.onrender.com
+
+---
+
 ### 🌍 City Vibe Analyzer
 Python project that analyzes city conditions using external APIs.
 
