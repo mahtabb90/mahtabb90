@@ -50,51 +50,25 @@ https://mini-ats-ai.onrender.com
 
 ---
 
-### 🌍 City Vibe Analyzer
-Python project that analyzes city conditions using external APIs.
+### 🧸 Autism Companion AI
 
-The system combines weather and traffic data to generate a simple “city vibe” analysis.
+A full-stack supportive web application designed to help children with autism or ADHD through calm emotional check-ins, personalized social stories, and predictable child-friendly guidance.
 
-Focus:
-- API integration
-- modular Python architecture
-- data processing
-- visualization
+Features:
 
-Tech:
-Python • APIs • Data analysis
+* Child Mode with emotion check-ins
+* Parent Dashboard with emotion logs
+* AI-generated social stories
+* Custom situation templates
+* Saved stories with reading mode
+* Text-to-speech support
+* Soft, accessible and sensory-friendly UI
+* Personalized story generation using child name, age, triggers, interests and calming tools
 
----
+Tech: FastAPI • React • TypeScript • SQLite • SQLAlchemy • Gemini AI • Antigravity IDE
 
-### 🧘 Wellness Tracker
-Command-line application for tracking wellbeing activities such as meditation and yoga.
-
-The program stores entries and generates reports to help users understand their habits.
-
-Focus:
-- CLI application design
-- modular Python structure
-- data tracking
-
-Tech:
-Python • CLI • data processing
-
----
-
-### 🎮 Python Game
-A small text-based adventure game created to practice core Python concepts.
-
-The project focuses on learning how to structure a small program and manage game data.
-
-Focus:
-- Python classes and OOP
-- modular code structure
-- JSON data handling
-- using external libraries
-- Git / GitHub workflow
-
-Tech:
-Python • JSON
+GitHub repo
+https://github.com/mahtabb90/autism-companion-ai
 
 ---
 
@@ -113,16 +87,6 @@ Courses include:
 - Agile Development
 - Self-Leadership
 
-
----
-
-# 🌱 Currently learning
-
-- Web applications
-- Machine Learning
-- AI system development
-- Data analysis
-- Cloud deployment
 
 ---
 
