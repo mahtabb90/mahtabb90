@@ -67,8 +67,8 @@ Features:
 
 Tech: FastAPI • React • TypeScript • SQLite • SQLAlchemy • Gemini AI • Antigravity IDE
 
-GitHub repo
-https://github.com/mahtabb90/autism-companion-ai
+Live app
+https://autism-companion-ai.vercel.app/
 
 ---
 
