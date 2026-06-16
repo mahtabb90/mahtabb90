@@ -11,6 +11,30 @@ Seeking **LIA internship opportunities (Nov 2026 – May 2027)**.
 
 # 🚀 Selected Projects
 
+
+### 🥂 DreamParty
+
+Premium fullstack AI application for birthday celebration and invitation planning.
+
+DreamParty turns simple celebration details into personalized party concepts, invitation text, color palettes, schedules, food ideas, music vibes, and downloadable invitation previews.
+
+Features:
+
+* Gemini AI celebration generator
+* FastAPI backend with Pydantic validation
+* React + TypeScript frontend
+* Luxury invitation preview and PNG download
+* Theme, zodiac and party planning tools
+* Secure API key handling through backend
+* Fallback handling for AI availability issues
+
+Tech: React • TypeScript • FastAPI • Python • Gemini AI • Vercel • Render • HTML5 Canvas
+
+Live app
+https://dreamparty.vercel.app/
+
+---
+
 ### 🌿 SoulCode
 Full-stack wellness platform combining mental wellbeing with modern web technology.
 
