@@ -11,6 +11,30 @@ Seeking **LIA internship opportunities (Nov 2026 – May 2027)**.
 
 # 🚀 Selected Projects
 
+### 🌿 BalanceFlow
+
+Fullstack AI wellness companion for mindful practice tracking, guided sessions and safe AI-powered personal reflection.
+
+BalanceFlow helps users explore yoga, meditation and breathing practices, complete structured guided sessions, log wellness entries, track patterns in stress, energy, sleep and mood, and receive reflective AI insights powered by Gemini.
+
+Features:
+
+* 🧘 Guided yoga, meditation and breathing practice library
+* 🌊 Structured practice sequences with step-by-step guidance
+* 📝 Wellness logging for mood, energy, stress, sleep and reflections
+* 📊 Dashboard with practice statistics and weekly patterns
+* 🤖 Gemini AI insights generated through a secure FastAPI backend
+* 🛡️ Rule-based fallback system when AI is unavailable
+* 🗄️ Neon PostgreSQL database integration
+* 🎨 Premium dark wellness UI with custom practice visuals
+* 🚀 Deployed fullstack app using Vercel, Render and Neon
+
+Tech: React • TypeScript • FastAPI • Python • SQLAlchemy • Neon PostgreSQL • Gemini AI • Vercel • Render
+
+Live app
+https://balanceflow-ai.vercel.app
+
+---
 
 ### 🥂 DreamParty
 
@@ -55,25 +79,6 @@ https://soulcode-api-mahtab.onrender.com/docs
 
 ---
 
-### 🤖 Mini ATS  
-AI-powered Applicant Tracking System for managing hiring workflows.
-
-Features:
-- User authentication (Supabase Auth)
-- Job management system
-- Candidate profiles (LinkedIn, CV summary)
-- Kanban recruitment pipeline (Applied → Interview → Offer → Rejected)
-- Filtering (job & candidate name)
-- AI match scoring (MVP)
-- Admin panel with secure user creation (Edge Functions)
-
-Tech: React • Supabase • PostgreSQL • Tailwind CSS • Edge Functions • Render
-
-Live app  
-https://mini-ats-ai.onrender.com
-
----
-
 ### 🧸 Autism Companion AI
 
 A full-stack supportive web application designed to help children with autism or ADHD through calm emotional check-ins, personalized social stories, and predictable child-friendly guidance.
@@ -93,6 +98,25 @@ Tech: FastAPI • React • TypeScript • SQLite • SQLAlchemy • Gemini AI �
 
 Live app
 https://autism-companion-ai.vercel.app/
+
+---
+
+### 🤖 Mini ATS  
+AI-powered Applicant Tracking System for managing hiring workflows.
+
+Features:
+- User authentication (Supabase Auth)
+- Job management system
+- Candidate profiles (LinkedIn, CV summary)
+- Kanban recruitment pipeline (Applied → Interview → Offer → Rejected)
+- Filtering (job & candidate name)
+- AI match scoring (MVP)
+- Admin panel with secure user creation (Edge Functions)
+
+Tech: React • Supabase • PostgreSQL • Tailwind CSS • Edge Functions • Render
+
+Live app  
+https://mini-ats-ai.onrender.com
 
 ---
 
