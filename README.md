@@ -32,6 +32,7 @@ Features:
 Tech: React • TypeScript • FastAPI • Python • SQLAlchemy • Neon PostgreSQL • Gemini AI • Vercel • Render
 
 Live app
+
 https://balanceflow-ai.vercel.app
 
 ---
@@ -55,27 +56,8 @@ Features:
 Tech: React • TypeScript • FastAPI • Python • Gemini AI • Vercel • Render • HTML5 Canvas
 
 Live app
+
 https://dreamparty.vercel.app/
-
----
-
-### 🌿 SoulCode
-Full-stack wellness platform combining mental wellbeing with modern web technology.
-
-Features:
-- User authentication (JWT)
-- Personal wellness entries
-- Weekly insights
-- Chakra-inspired UI
-
-Tech:
-FastAPI • React • PostgreSQL • SQLAlchemy • Render
-
-Live app  
-https://soulcode-frontend-mahtab.onrender.com
-
-API docs  
-https://soulcode-api-mahtab.onrender.com/docs
 
 ---
 
@@ -97,11 +79,13 @@ Features:
 Tech: FastAPI • React • TypeScript • SQLite • SQLAlchemy • Gemini AI • Antigravity IDE
 
 Live app
+
 https://autism-companion-ai.vercel.app/
 
 ---
 
-### 🤖 Mini ATS  
+### 🤖 Mini ATS 
+
 AI-powered Applicant Tracking System for managing hiring workflows.
 
 Features:
@@ -116,7 +100,29 @@ Features:
 Tech: React • Supabase • PostgreSQL • Tailwind CSS • Edge Functions • Render
 
 Live app  
+
 https://mini-ats-ai.onrender.com
+
+---
+
+### 🌿 SoulCode
+
+Full-stack wellness platform combining mental wellbeing with modern web technology.
+
+Features:
+- User authentication (JWT)
+- Personal wellness entries
+- Weekly insights
+- Chakra-inspired UI
+
+Tech:
+FastAPI • React • PostgreSQL • SQLAlchemy • Render
+
+Live app  
+https://soulcode-frontend-mahtab.onrender.com
+
+API docs  
+https://soulcode-api-mahtab.onrender.com/docs
 
 ---
 
