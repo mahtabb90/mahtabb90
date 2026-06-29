@@ -84,6 +84,38 @@ https://autism-companion-ai.vercel.app/
 
 ---
 
+---
+
+## 🌸 GlowWise AI
+
+A full-stack machine learning web application that analyzes skincare product reviews and turns customer feedback into intelligent beauty insights.
+
+GlowWise AI predicts whether a customer review shows **high satisfaction** or **low/medium satisfaction**, explains important positive and negative words, discovers customer segments, and presents everything in a polished skincare-inspired dashboard.
+
+Features:
+
+* 🤖 ML-powered customer satisfaction prediction
+* 💬 Skincare review text analysis
+* 🔍 Explainability with positive and negative driver words
+* 👥 Customer segmentation using unsupervised learning
+* 📊 Model comparison with Logistic Regression, LinearSVC, KNN, ANN/MLP and Text CNN
+* 🧠 Real TensorFlow/Keras Text CNN experiment in Google Colab
+* ⚙️ FastAPI backend serving the trained ML model
+* 💻 React + TypeScript frontend with premium beauty UI
+* 🚀 Deployed full-stack app with live prediction
+
+Tech: Python • scikit-learn • TensorFlow/Keras • FastAPI • React • TypeScript • Vite • Render • Vercel • Antigravity IDE
+
+Live app
+
+https://glowwise-ai.vercel.app/
+
+Backend API
+
+https://glowwise-ai.onrender.com
+
+---
+
 ### 🤖 Mini ATS 
 
 AI-powered Applicant Tracking System for managing hiring workflows.
