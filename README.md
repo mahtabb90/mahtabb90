@@ -1,11 +1,8 @@
 # Hi, I'm Mahtab 👋
 
-Studying **AI Development** at Jensen Yrkeshögskola.
+AI Developer | Fullstack AI | Python, FastAPI, React, SQL & Machine Learning
 
-I enjoy building systems where **technology, data and human wellbeing meet**.  
-My focus is on **Python development, web applications and applied AI**.
-
-Seeking **LIA internship opportunities (Nov 2026 – May 2027)**.
+I build fullstack AI applications that combine backend engineering, frontend development, data and human-centered design.
 
 ---
 
