@@ -52,7 +52,7 @@ Features:
 * 💻 React + TypeScript frontend with premium beauty UI
 * 🚀 Deployed full-stack app with live prediction
 
-Tech: Python • scikit-learn • TensorFlow/Keras • FastAPI • React • TypeScript • Vite • Render • Vercel • Antigravity IDE
+Tech: Python • scikit-learn • TensorFlow/Keras • FastAPI • React • TypeScript • Vite • Render • Vercel 
 
 Live app
 
@@ -103,7 +103,7 @@ Features:
 * Soft, accessible and sensory-friendly UI
 * Personalized story generation using child name, age, triggers, interests and calming tools
 
-Tech: FastAPI • React • TypeScript • SQLite • SQLAlchemy • Gemini AI • Antigravity IDE
+Tech: FastAPI • React • TypeScript • SQLite • SQLAlchemy • Gemini AI 
 
 Live app
 
